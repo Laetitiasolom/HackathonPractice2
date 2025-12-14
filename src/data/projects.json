@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "title": "Habitats - Jungle Kingdom",
+        "category": "Graphic Design",
+        "description": "The bachelor thesis topic was left completely up to the designer. Here, the decision landed on children’s board game design. Not only did rules need to be established, but an entire playable board game had to be created, along with extention possibilities and promotional items. For this purpose, merchandise designs were conceptualized, as well as promotional posters, postcards, advertisements and a website was created. To complete the scope of a bachelor’s thesis, a standards guide outlining the designs created and an annual report showcasing the designer’s typographic abilities had to be presented upon completion. ",
+        "thumbnail": "/images/habitat-cover.jpg",
+        "gallery": [
+            "/images/habitat-cover.jpg",
+            "/images/habitat-board.jpg",
+            "/images/habitat-merch.jpg",
+            "/images/habitat-posters.jpg",
+            "/images/habitat-stationary.jpg",
+            "/images/habitat-elements.jpg",
+            "/images/habitat-business.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Kiddie Co. / Dexter the Dinosaur",
+        "category": "Graphic Design",
+        "description": "This project sought the creation of a hygiene line for the opposite gender that targets a specific age group. Five different bath products had to be conceptualized, along with at least two additional products, hygiene or other. Additionally, an advertisement, a stationary set and posters had to be made",
+        "thumbnail": "/images/kiddie-cover.jpg",
+        "gallery": [
+            "/images/kiddie-cover.jpg",
+            "/images/kiddie-products.jpg",
+            "/images/kiddie-ads.jpg",
+            "/images/kiddie-stationary.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Barolo Non Solo Vino",
+        "category": "Graphic Design",
+        "description": "This project sought a certain kind of restaurant that could be created and designed from the ground up. A distinct brand identity had to be established, along with a menu, a brochure and a promotional postcard. This project challenged cohesiveness throughout and a certain recognition factor. ",
+        "thumbnail": "/images/barolo-cover.jpg",
+        "gallery": [
+            "/images/barolo-cover.jpg",
+            "/images/barolo-menu.jpg",
+            "/images/barolo-postcard.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Tigris Magazine",
+        "category": "Editorial Design",
+        "description": "This project sought the creation of a niche magazine that does not already have other magazines with the same topic. The magazine had to consist of at least 24 pages, showing all original and edited photographs. The typography had to follow a consistent grid while the were both feature and departmental spreads. ",
+        "thumbnail": "/images/tigris-cover.jpg",
+        "gallery": [
+            "/images/tigris-cover.jpg",
+            "/images/tigris-spread1.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Olympic Games Infographic",
+        "category": "Graphic Design",
+        "description": "A dual-poster series visualizing female representation in the Olympics. One poster explores the topic qualitatively through art, while the other presents quantitative facts and figures.",
+        "thumbnail": "/images/olympics-cover.jpg",
+        "gallery": [
+            "/images/olympics-cover.jpg"
+        ]
+    }
+]
