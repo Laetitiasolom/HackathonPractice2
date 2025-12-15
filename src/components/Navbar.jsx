@@ -10,6 +10,7 @@ const Navbar = () => {
         { name: 'Home', path: '/' },
         { name: 'About', path: '/about' },
         { name: 'Portfolio', path: '/portfolio' },
+        { name: 'Publications', path: '/publications' },
         { name: 'Contact', path: '/contact' },
     ];
 
@@ -35,8 +36,8 @@ const Navbar = () => {
                                 key={link.name}
                                 to={link.path}
                                 className={`text-sm font-medium transition-colors duration-200 ${isActive(link.path)
-                                        ? 'text-accent font-semibold'
-                                        : 'text-gray-500 hover:text-primary-dark'
+                                    ? 'text-accent font-semibold'
+                                    : 'text-gray-500 hover:text-primary-dark'
                                     }`}
                             >
                                 {link.name}
@@ -66,8 +67,8 @@ const Navbar = () => {
                                 to={link.path}
                                 onClick={() => setIsOpen(false)}
                                 className={`block px-3 py-2 rounded-md text-base font-medium ${isActive(link.path)
-                                        ? 'text-accent bg-gray-50'
-                                        : 'text-gray-600 hover:text-primary-dark hover:bg-gray-50'
+                                    ? 'text-accent bg-gray-50'
+                                    : 'text-gray-600 hover:text-primary-dark hover:bg-gray-50'
                                     }`}
                             >
                                 {link.name}

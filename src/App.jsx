@@ -3,6 +3,7 @@ import Layout from './components/Layout';
 import Home from './pages/Home';
 import About from './pages/About';
 import Portfolio from './pages/Portfolio';
+import Publications from './pages/Publications';
 import Contact from './pages/Contact';
 
 import ProjectDetail from './pages/ProjectDetail';
@@ -16,6 +17,7 @@ function App() {
           <Route path="about" element={<About />} />
           <Route path="portfolio" element={<Portfolio />} />
           <Route path="portfolio/:id" element={<ProjectDetail />} />
+          <Route path="publications" element={<Publications />} />
           <Route path="contact" element={<Contact />} />
         </Route>
       </Routes>
